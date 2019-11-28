@@ -1,0 +1,17 @@
+{
+    "device": "/dev/ttyUSB0",
+    "name": "ttyUSB0",
+    "description": "USB-Serial Controller D",
+    "hwid": "USB VID:PID=067B:2303 LOCATION=1-1",
+    "vid": 1659,
+    "pid": 8963,
+    "serial_number": null,
+    "location": "1-1",
+    "manufacturer": "Prolific Technology Inc.",
+    "product": "USB-Serial Controller D",
+    "interface": null,
+    "usb_device_path": "/sys/devices/pci0000:00/0000:00:15.0/usb1/1-1",
+    "device_path": "/sys/devices/pci0000:00/0000:00:15.0/usb1/1-1/1-1:1.0/ttyUSB0",
+    "subsystem": "usb-serial",
+    "usb_interface_path": "/sys/devices/pci0000:00/0000:00:15.0/usb1/1-1/1-1:1.0"
+}
