@@ -3,7 +3,7 @@ Given a MID and PID, find a match in connected serial device.
 
 Purpose: my previous implementation of this idea was based on the pywin32 lib, and is therefore windows-only.  This is my attempt to create a cross-platform equivalent.
 
-## 11/28/2019 - Testing with TRENDNet TU-S9 plugged in via USB
+### 11/28/2019 - Testing with TRENDNet TU-S9 plugged in via USB
 
 #### Win10:
 ```
