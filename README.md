@@ -2,9 +2,9 @@ Given a MID and PID, find a match in connected serial device.
 
 Purpose: my previous implementation of this idea was based on the pywin32 lib, and is therefore windows-only.  This is my attempt to create a cross-platform equivalent.
 
-11/28/2019 - Testing with TRENDNet TU-S9 plugged in via USB
+##11/28/2019 - Testing with TRENDNet TU-S9 plugged in via USB##
 
-Win10 Test Log:
+Win10:
 ```
 PS D:\Source\Repos\serial_device_detection> python -m unittest tests.test_find_by_hwid -v
 test_TRENDNet_hex (tests.test_find_by_hwid.TestFindByHWID) ... ok
